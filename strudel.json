@@ -1,4 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/SoftDauna/Test1/master/",
+  "_base": "https://raw.githubusercontent.com/SoftDauna/Test1/main/",
   "Test1": ["01_SamplePackPad.wav","02_SamplePackPad.wav","03_SamplePackPad.wav","04_SamplePackPad.wav","05_SamplePackPad.wav"]
 }
